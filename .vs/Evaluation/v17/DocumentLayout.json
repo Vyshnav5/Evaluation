@@ -1,0 +1,410 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\asp\\Exam pro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{431A3857-6230-4E81-B124-8C19BB67EB0C}|Exam pro\\Evaluation.csproj|c:\\users\\dell\\desktop\\asp\\exam pro\\exam pro\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{431A3857-6230-4E81-B124-8C19BB67EB0C}|Exam pro\\Evaluation.csproj|solutionrelative:exam pro\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431A3857-6230-4E81-B124-8C19BB67EB0C}|Exam pro\\Evaluation.csproj|c:\\users\\dell\\desktop\\asp\\exam pro\\exam pro\\st_profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{431A3857-6230-4E81-B124-8C19BB67EB0C}|Exam pro\\Evaluation.csproj|solutionrelative:exam pro\\st_profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431A3857-6230-4E81-B124-8C19BB67EB0C}|Exam pro\\Evaluation.csproj|c:\\users\\dell\\desktop\\asp\\exam pro\\exam pro\\st_profile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431A3857-6230-4E81-B124-8C19BB67EB0C}|Exam pro\\Evaluation.csproj|solutionrelative:exam pro\\st_profile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431A3857-6230-4E81-B124-8C19BB67EB0C}|Exam pro\\Evaluation.csproj|c:\\users\\dell\\desktop\\asp\\exam pro\\exam pro\\student.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{431A3857-6230-4E81-B124-8C19BB67EB0C}|Exam pro\\Evaluation.csproj|solutionrelative:exam pro\\student.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431A3857-6230-4E81-B124-8C19BB67EB0C}|Exam pro\\Evaluation.csproj|c:\\users\\dell\\desktop\\asp\\exam pro\\exam pro\\ad_student_details.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{431A3857-6230-4E81-B124-8C19BB67EB0C}|Exam pro\\Evaluation.csproj|solutionrelative:exam pro\\ad_student_details.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431A3857-6230-4E81-B124-8C19BB67EB0C}|Exam pro\\Evaluation.csproj|c:\\users\\dell\\desktop\\asp\\exam pro\\exam pro\\ad_student_details.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431A3857-6230-4E81-B124-8C19BB67EB0C}|Exam pro\\Evaluation.csproj|solutionrelative:exam pro\\ad_student_details.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431A3857-6230-4E81-B124-8C19BB67EB0C}|Exam pro\\Evaluation.csproj|c:\\users\\dell\\desktop\\asp\\exam pro\\exam pro\\student_registration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{431A3857-6230-4E81-B124-8C19BB67EB0C}|Exam pro\\Evaluation.csproj|solutionrelative:exam pro\\student_registration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431A3857-6230-4E81-B124-8C19BB67EB0C}|Exam pro\\Evaluation.csproj|c:\\users\\dell\\desktop\\asp\\exam pro\\exam pro\\student_registration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431A3857-6230-4E81-B124-8C19BB67EB0C}|Exam pro\\Evaluation.csproj|solutionrelative:exam pro\\student_registration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431A3857-6230-4E81-B124-8C19BB67EB0C}|Exam pro\\Evaluation.csproj|c:\\users\\dell\\desktop\\asp\\exam pro\\exam pro\\st_marks.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431A3857-6230-4E81-B124-8C19BB67EB0C}|Exam pro\\Evaluation.csproj|solutionrelative:exam pro\\st_marks.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431A3857-6230-4E81-B124-8C19BB67EB0C}|Exam pro\\Evaluation.csproj|c:\\users\\dell\\desktop\\asp\\exam pro\\exam pro\\ad_marks.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431A3857-6230-4E81-B124-8C19BB67EB0C}|Exam pro\\Evaluation.csproj|solutionrelative:exam pro\\ad_marks.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431A3857-6230-4E81-B124-8C19BB67EB0C}|Exam pro\\Evaluation.csproj|c:\\users\\dell\\desktop\\asp\\exam pro\\exam pro\\st_study_materials.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{431A3857-6230-4E81-B124-8C19BB67EB0C}|Exam pro\\Evaluation.csproj|solutionrelative:exam pro\\st_study_materials.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431A3857-6230-4E81-B124-8C19BB67EB0C}|Exam pro\\Evaluation.csproj|c:\\users\\dell\\desktop\\asp\\exam pro\\exam pro\\st_marks.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{431A3857-6230-4E81-B124-8C19BB67EB0C}|Exam pro\\Evaluation.csproj|solutionrelative:exam pro\\st_marks.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431A3857-6230-4E81-B124-8C19BB67EB0C}|Exam pro\\Evaluation.csproj|c:\\users\\dell\\desktop\\asp\\exam pro\\exam pro\\ad_marks.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{431A3857-6230-4E81-B124-8C19BB67EB0C}|Exam pro\\Evaluation.csproj|solutionrelative:exam pro\\ad_marks.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\Desktop\\asp\\First\\First\\Item view.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431A3857-6230-4E81-B124-8C19BB67EB0C}|Exam pro\\Evaluation.csproj|c:\\users\\dell\\desktop\\asp\\exam pro\\exam pro\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431A3857-6230-4E81-B124-8C19BB67EB0C}|Exam pro\\Evaluation.csproj|solutionrelative:exam pro\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431A3857-6230-4E81-B124-8C19BB67EB0C}|Exam pro\\Evaluation.csproj|c:\\users\\dell\\desktop\\asp\\exam pro\\exam pro\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{431A3857-6230-4E81-B124-8C19BB67EB0C}|Exam pro\\Evaluation.csproj|solutionrelative:exam pro\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431A3857-6230-4E81-B124-8C19BB67EB0C}|Exam pro\\Evaluation.csproj|c:\\users\\dell\\desktop\\asp\\exam pro\\exam pro\\tution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431A3857-6230-4E81-B124-8C19BB67EB0C}|Exam pro\\Evaluation.csproj|solutionrelative:exam pro\\tution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431A3857-6230-4E81-B124-8C19BB67EB0C}|Exam pro\\Evaluation.csproj|c:\\users\\dell\\desktop\\asp\\exam pro\\exam pro\\student_home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{431A3857-6230-4E81-B124-8C19BB67EB0C}|Exam pro\\Evaluation.csproj|solutionrelative:exam pro\\student_home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431A3857-6230-4E81-B124-8C19BB67EB0C}|Exam pro\\Evaluation.csproj|c:\\users\\dell\\desktop\\asp\\exam pro\\exam pro\\study_material.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{431A3857-6230-4E81-B124-8C19BB67EB0C}|Exam pro\\Evaluation.csproj|solutionrelative:exam pro\\study_material.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431A3857-6230-4E81-B124-8C19BB67EB0C}|Exam pro\\Evaluation.csproj|c:\\users\\dell\\desktop\\asp\\exam pro\\exam pro\\admin_home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{431A3857-6230-4E81-B124-8C19BB67EB0C}|Exam pro\\Evaluation.csproj|solutionrelative:exam pro\\admin_home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\Desktop\\asp\\First\\First\\Image.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431A3857-6230-4E81-B124-8C19BB67EB0C}|Exam pro\\Evaluation.csproj|c:\\users\\dell\\desktop\\asp\\exam pro\\exam pro\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{431A3857-6230-4E81-B124-8C19BB67EB0C}|Exam pro\\Evaluation.csproj|solutionrelative:exam pro\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "tution.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\asp\\Exam pro\\Exam pro\\tution.cs",
+              "RelativeDocumentMoniker": "Exam pro\\tution.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\asp\\Exam pro\\Exam pro\\tution.cs",
+              "RelativeToolTip": "Exam pro\\tution.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAlwCgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:57:20.869Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Admin.Master",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\asp\\Exam pro\\Exam pro\\Admin.Master",
+              "RelativeDocumentMoniker": "Exam pro\\Admin.Master",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\asp\\Exam pro\\Exam pro\\Admin.Master",
+              "RelativeToolTip": "Exam pro\\Admin.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-09T07:25:11.08Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\asp\\Exam pro\\Exam pro\\Login.aspx",
+              "RelativeDocumentMoniker": "Exam pro\\Login.aspx",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\asp\\Exam pro\\Exam pro\\Login.aspx",
+              "RelativeToolTip": "Exam pro\\Login.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-09T07:25:29.827Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AD_student_details.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\asp\\Exam pro\\Exam pro\\AD_student_details.aspx",
+              "RelativeDocumentMoniker": "Exam pro\\AD_student_details.aspx",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\asp\\Exam pro\\Exam pro\\AD_student_details.aspx",
+              "RelativeToolTip": "Exam pro\\AD_student_details.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-09T08:14:34.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.Master",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\asp\\Exam pro\\Exam pro\\Student.Master",
+              "RelativeDocumentMoniker": "Exam pro\\Student.Master",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\asp\\Exam pro\\Exam pro\\Student.Master",
+              "RelativeToolTip": "Exam pro\\Student.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-09T09:48:59.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "St_Profile.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\asp\\Exam pro\\Exam pro\\St_Profile.aspx.cs",
+              "RelativeDocumentMoniker": "Exam pro\\St_Profile.aspx.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\asp\\Exam pro\\Exam pro\\St_Profile.aspx.cs",
+              "RelativeToolTip": "Exam pro\\St_Profile.aspx.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAwDwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:53:22.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "St_Profile.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\asp\\Exam pro\\Exam pro\\St_Profile.aspx",
+              "RelativeDocumentMoniker": "Exam pro\\St_Profile.aspx",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\asp\\Exam pro\\Exam pro\\St_Profile.aspx",
+              "RelativeToolTip": "Exam pro\\St_Profile.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-09T09:50:56.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AD_student_details.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\asp\\Exam pro\\Exam pro\\AD_student_details.aspx.cs",
+              "RelativeDocumentMoniker": "Exam pro\\AD_student_details.aspx.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\asp\\Exam pro\\Exam pro\\AD_student_details.aspx.cs",
+              "RelativeToolTip": "Exam pro\\AD_student_details.aspx.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:28:51.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ad_marks.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\asp\\Exam pro\\Exam pro\\Ad_marks.aspx.cs",
+              "RelativeDocumentMoniker": "Exam pro\\Ad_marks.aspx.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\asp\\Exam pro\\Exam pro\\Ad_marks.aspx.cs",
+              "RelativeToolTip": "Exam pro\\Ad_marks.aspx.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:00:41.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student_registration.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\asp\\Exam pro\\Exam pro\\Student_registration.aspx",
+              "RelativeDocumentMoniker": "Exam pro\\Student_registration.aspx",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\asp\\Exam pro\\Exam pro\\Student_registration.aspx",
+              "RelativeToolTip": "Exam pro\\Student_registration.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-09T05:36:42.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student_registration.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\asp\\Exam pro\\Exam pro\\Student_registration.aspx.cs",
+              "RelativeDocumentMoniker": "Exam pro\\Student_registration.aspx.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\asp\\Exam pro\\Exam pro\\Student_registration.aspx.cs",
+              "RelativeToolTip": "Exam pro\\Student_registration.aspx.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAA6wCUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:51:49.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "St_marks.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\asp\\Exam pro\\Exam pro\\St_marks.aspx.cs",
+              "RelativeDocumentMoniker": "Exam pro\\St_marks.aspx.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\asp\\Exam pro\\Exam pro\\St_marks.aspx.cs",
+              "RelativeToolTip": "Exam pro\\St_marks.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T10:53:55.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "St_marks.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\asp\\Exam pro\\Exam pro\\St_marks.aspx",
+              "RelativeDocumentMoniker": "Exam pro\\St_marks.aspx",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\asp\\Exam pro\\Exam pro\\St_marks.aspx",
+              "RelativeToolTip": "Exam pro\\St_marks.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-09T10:53:00.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\asp\\Exam pro\\Exam pro\\css\\styles.css",
+              "RelativeDocumentMoniker": "Exam pro\\css\\styles.css",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\asp\\Exam pro\\Exam pro\\css\\styles.css",
+              "RelativeToolTip": "Exam pro\\css\\styles.css",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-09T10:58:56.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "St_study_materials.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\asp\\Exam pro\\Exam pro\\St_study_materials.aspx",
+              "RelativeDocumentMoniker": "Exam pro\\St_study_materials.aspx",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\asp\\Exam pro\\Exam pro\\St_study_materials.aspx",
+              "RelativeToolTip": "Exam pro\\St_study_materials.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-09T10:45:50.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ad_marks.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\asp\\Exam pro\\Exam pro\\Ad_marks.aspx",
+              "RelativeDocumentMoniker": "Exam pro\\Ad_marks.aspx",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\asp\\Exam pro\\Exam pro\\Ad_marks.aspx",
+              "RelativeToolTip": "Exam pro\\Ad_marks.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-09T08:48:40.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\asp\\Exam pro\\Exam pro\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Exam pro\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\asp\\Exam pro\\Exam pro\\Login.aspx.cs",
+              "RelativeToolTip": "Exam pro\\Login.aspx.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T10:37:08.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Item view.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\asp\\First\\First\\Item view.aspx",
+              "RelativeDocumentMoniker": "..\\First\\First\\Item view.aspx",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\asp\\First\\First\\Item view.aspx",
+              "RelativeToolTip": "..\\First\\First\\Item view.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-09T10:47:57.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Student_home.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\asp\\Exam pro\\Exam pro\\Student_home.aspx",
+              "RelativeDocumentMoniker": "Exam pro\\Student_home.aspx",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\asp\\Exam pro\\Exam pro\\Student_home.aspx",
+              "RelativeToolTip": "Exam pro\\Student_home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-09T10:37:21.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Study_material.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\asp\\Exam pro\\Exam pro\\Study_material.aspx",
+              "RelativeDocumentMoniker": "Exam pro\\Study_material.aspx",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\asp\\Exam pro\\Exam pro\\Study_material.aspx",
+              "RelativeToolTip": "Exam pro\\Study_material.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-09T08:33:47.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Admin_home.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\asp\\Exam pro\\Exam pro\\Admin_home.aspx",
+              "RelativeDocumentMoniker": "Exam pro\\Admin_home.aspx",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\asp\\Exam pro\\Exam pro\\Admin_home.aspx",
+              "RelativeToolTip": "Exam pro\\Admin_home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-09T08:14:47.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Image.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\asp\\First\\First\\Image.aspx",
+              "RelativeDocumentMoniker": "..\\First\\First\\Image.aspx",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\asp\\First\\First\\Image.aspx",
+              "RelativeToolTip": "..\\First\\First\\Image.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-09T06:55:49.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
